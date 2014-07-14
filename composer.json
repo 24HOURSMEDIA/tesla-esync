@@ -1,0 +1,23 @@
+{
+    "name": "24hoursmedia/tesla-esync",
+    "description": "Esync CRUD events",
+    "type": "library",
+    "authors": [
+        {
+            "name": "E.Bachman",
+            "email": "eba@24hoursmedia.com"
+        }
+    ],
+    "keywords": [],
+    "homepage": "http://www.24hoursmedia.com/tesla",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-0": {
+            "Tesla\\Esync": ""
+        }
+    },
+    "target-dir": "Tesla/Esync",
+    "minimum-stability": "dev"
+}
